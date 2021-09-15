@@ -1,7 +1,15 @@
+import Landing from "./pages/Landing";
+import Footer from "./parts/Footer";
+import Header from "./parts/Header";
+import Preloader from "./parts/Preloader";
+
 function App() {
   return (
-    <div className="App">
-      <h1>App</h1>
+    <div>
+      <Preloader />
+      <Header />
+      <Landing />
+      <Footer />
     </div>
   );
 }
