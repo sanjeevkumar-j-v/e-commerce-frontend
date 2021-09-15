@@ -8,8 +8,8 @@ function Header(props) {
           <div class="row align-items-center">
             <div class="col-lg-12">
               <nav class="navbar navbar-expand-lg">
-                <a class="navbar-brand" href="/">
-                  <img src="/assets/img/stlogo.svg" alt="Logo" />
+                <a class="navbar-brand logo" href="/">
+                  <img src="/assets/img/stlogopink.svg" alt="Logo" />
                   {/* <h3>
                     <i>Cook and Bake</i>
                   </h3> */}
